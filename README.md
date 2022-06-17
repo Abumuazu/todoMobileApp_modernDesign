@@ -1,4 +1,4 @@
-# Smoothly Animated ToDo App built with React Native
+<!-- # Smoothly Animated ToDo App built with React Native
 
 ![Thumbnail](./doc/thumb.jpg)
 
@@ -20,7 +20,7 @@ Watch how I built this website on YouTube: [<img src="./doc/youtube.png" width="
 - [NativeBase(v3)](https://nativebase.io/) - Themable component library
 - [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/) - Animations
 - [React Native SVG](https://github.com/react-native-svg/react-native-svg) - Drawing SVG
-- [Moti](https://moti.fyi/) - Helper module for Reanimated 2
+- [Moti](https://moti.fyi/) - Helper module for Reanimated 2 -->
 
 ## Project structure
 
@@ -50,6 +50,4 @@ yarn start
 
 ---
 
-Looking for a Markdown note-taking app? Check out my app called Inkdrop:
 
-[![Inkdrop](https://github.com/craftzdog/dotfiles-public/raw/master/images/inkdrop.png)](https://www.inkdrop.app/)
